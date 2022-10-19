@@ -23,6 +23,8 @@ conn.execute("INSERT INTO COMPANY (ID, NAME, AGE, ADDRESS, SALARY)\
 conn.commit()
 print("Records created successfully")
 
+# test
+
 
 
 
